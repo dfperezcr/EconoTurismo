@@ -1,0 +1,8 @@
+{
+  "name": "EconWorld: First-Person Sim",
+  "description": "An immersive first-person economic simulation and teaching tool where players navigate a living market, make choices under scarcity, and learn fundamental economic principles with the help of an AI Mentor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
